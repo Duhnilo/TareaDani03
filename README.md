@@ -2,9 +2,9 @@
 
 ## Notebook Acer Nitro 5
 
-| Procesador | Sist. operativo | Memorias | Año de diseño |
+| Procesador | Sist. operativo | Memoria RAM | Tipo de memoria |
 |----------- |---------------- |--------- |-------------- |
-| 20 | 20 | 100 | 200 |
+| AMD RYZEN 7 | Windows 10 | 16 GB | DDR4 SDRAM |
 | 21 | 25 | 100 | 250 |
 | 22 | 30 | 100 | 300 |
 | 23 | 35 | 100 | 350 |
