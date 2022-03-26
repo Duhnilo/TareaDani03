@@ -30,3 +30,5 @@ El diseño es contemporáneo y con sus formas y colores apela de buena manera al
 
 # Sensor
 
+<span style="color:blue">some *blue* text</span>.
+
