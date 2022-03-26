@@ -14,7 +14,7 @@
 
 
 
-| # Conexiones     |
+| Conexiones     |
 |----------- |----------- |
 | USB 3.1 Gen 1 Tipo-A x3 | HDMI |   
 | USB 3.1 Gen 1 Tipo-C x1 |  Headphone-Microphone Combo Port |
