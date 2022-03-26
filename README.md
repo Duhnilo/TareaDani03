@@ -14,9 +14,10 @@
 
 
 
-Conexiones     |  |
-|----------- |----------- |
-| USB 3.1 Gen 1 Tipo-A x3 | HDMI |   
-| USB 3.1 Gen 1 Tipo-C x1 |  Headphone-Microphone Combo Port |
+| Conexiones     |
+|----------- |
+| USB 3.1 Gen 1 Tipo-A x3 |
+| USB 3.1 Gen 1 Tipo-C x1 |
 | Kensington Lock Slot |
-
+| HDMI |   
+| Headphone-Microphone Combo Port |
