@@ -8,7 +8,7 @@
 |----------- |---------------- |--------- |-------------- |                                 
 | AMD RYZEN 7 | 64 bits procesador x64 | 16 GB | DDR4 SDRAM |                                           
 | Disco duro | Tipo de teclado | Resolución |Tarjeta de video |                                  
-| SSD PCI-E NVME | QWERTY latinoamericano tipo isla | 1920 X 1080 @144hZ | Nvidia GeForce GTX 1650 |            
+| SSD PCI-E NVME | QWERTY latinoamericano tipo isla (con luces) | 1920 X 1080 @144hZ | Nvidia GeForce GTX 1650 |            
 
 | Conexiones     |
 |----------- |
