@@ -30,4 +30,4 @@ El diseño es contemporáneo y con sus formas y colores apela de buena manera al
 
 # Sensor de superficies
 
-Inventaría un sensor que analiza las texturas de diversas superficies, El tamaño del sensor sería de 5 mm y funcionaría al tacto con la superficie, sintiendo la porosidad.
+Inventaría un sensor que analiza las texturas de diversas superficies, El tamaño del sensor sería de 5 mm y funcionaría al tacto con la superficie, sintiendo la porosidad. (ayudar a niñes ciegues a aprender a diferenciar entre telas u otras cosas)
