@@ -28,7 +28,6 @@ El teclado no tiene una opción accesible para mantener las luces encendidas, y 
 
 El diseño es contemporáneo y con sus formas y colores apela de buena manera al público objetivo (gamers).
 
-# Sensor
+# Sensor de superficies
 
-<span style="color:red">some *blue* text</span>.
-
+Inventaría un sensor que analiza las texturas de diversas superficies, El tamaño del sensor sería de 5 mm y funcionaría al tacto con la superficie, sintiendo la porosidad.
